@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/ws101_react_landingpage/static/css/main.c521be19.css",
+    "main.js": "/ws101_react_landingpage/static/js/main.6ea53dd4.js",
+    "static/js/453.b3e16baf.chunk.js": "/ws101_react_landingpage/static/js/453.b3e16baf.chunk.js",
+    "static/media/faceboooklogo.png": "/ws101_react_landingpage/static/media/faceboooklogo.1123cb234ea219f20916.png",
+    "static/media/aboutus.png": "/ws101_react_landingpage/static/media/aboutus.a0e7a5b2824dee7c518a.png",
+    "static/media/webdeveloper.png": "/ws101_react_landingpage/static/media/webdeveloper.82557148fb1cfe538da5.png",
+    "index.html": "/ws101_react_landingpage/index.html",
+    "main.c521be19.css.map": "/ws101_react_landingpage/static/css/main.c521be19.css.map",
+    "main.6ea53dd4.js.map": "/ws101_react_landingpage/static/js/main.6ea53dd4.js.map",
+    "453.b3e16baf.chunk.js.map": "/ws101_react_landingpage/static/js/453.b3e16baf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c521be19.css",
+    "static/js/main.6ea53dd4.js"
+  ]
+}
