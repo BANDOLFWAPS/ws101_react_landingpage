@@ -1,0 +1,42 @@
+#description {
+  padding: 4rem 2rem;
+  background-color: #f4f4f4;
+  color: #333;
+  text-align: center;
+  animation: fadeIn 2s ease-in;
+}
+
+#description h2 {
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+}
+
+.service-item {
+  display: inline-block;
+  width: 100%;
+  max-width: 300px;
+  margin: 2rem;
+  text-align: center;
+  transition: transform 0.3s ease;
+}
+
+.service-item img {
+  width: 100px;
+  height: auto;
+  margin-bottom: 1rem;
+}
+
+.service-item:hover {
+  transform: translateY(-10px);
+}
+
+.service-item h3 {
+  font-size: 1.8rem;
+  margin-bottom: 0.5rem;
+}
+
+.service-item p {
+  font-size: 1.1rem;
+  max-width: 600px;
+  margin: 0 auto;
+}

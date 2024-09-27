@@ -1,0 +1,19 @@
+footer {
+  text-align: center;
+  padding: 2rem 1rem;
+  background-color: #34495e;
+  color: white;
+  animation: fadeIn 2.5s ease-in;
+}
+
+footer img {
+  width: 60px;
+  height: auto;
+  margin-bottom: 0.5rem;
+  animation: bounce 2s infinite;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
